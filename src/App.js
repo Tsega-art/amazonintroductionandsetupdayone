@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react";
-import Header from "./Components/Header/Header";
+import Header from "./Components/Header/Header.jsx";
 import Carousel from "./Components/Carousel/CarouselEffect";
 import CarouselEffect from "./Components/Carousel/CarouselEffect";
 import Category from "./Components/Category/Category";
