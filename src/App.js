@@ -1,9 +1,4 @@
 import React, { useContext, useEffect } from "react";
-import Header from "./Components/Header/Header.jsx";
-import Carousel from "./Components/Carousel/CarouselEffect";
-import CarouselEffect from "./Components/Carousel/CarouselEffect";
-import Category from "./Components/Category/Category";
-import CategoryCard from "./Components/Category/CategoryCard";
 import Product from "./Components/Product/Product";
 import Routing from "./Router.jsx";
 import { DataContext } from "./Components/DataProvider/DataProvider.jsx";
